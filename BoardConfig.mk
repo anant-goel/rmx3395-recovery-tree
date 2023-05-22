@@ -18,7 +18,8 @@ AB_OTA_PARTITIONS += \
     product \
     odm \
     vbmeta_vendor \
-    vbmeta_system
+    vbmeta_system \
+    boot
 BOARD_USES_RECOVERY_AS_BOOT := true
 
 # Architecture
